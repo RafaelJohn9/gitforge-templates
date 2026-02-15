@@ -1,1 +1,1 @@
-# gitforge-templates
+# gitcraft-templates
